@@ -5,6 +5,9 @@ classes: 2
 maximum node tag: 37
 data: 4110
 
+https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets
+
+
 GNN 10 folds: 
 Parameter containing:
 tensor([0., 0., 0., 0.], device='cuda:0', requires_grad=True)
