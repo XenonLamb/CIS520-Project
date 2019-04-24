@@ -1,9 +1,9 @@
 # CIS520-Project
 Graph classification on NCI
 
-# classes: 2
-# maximum node tag: 37
-# data: 4110
+classes: 2
+maximum node tag: 37
+data: 4110
 
 GNN 10 folds: 
 Parameter containing:
