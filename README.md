@@ -1,6 +1,8 @@
 # CIS520-Project
 Graph classification on NCI
 
+`520ProjEmb.ipynb` contains the live script and results of the embedding and kernel SVM methods.
+
 classes: 2 
 maximum node tag: 37
 data: 4110
